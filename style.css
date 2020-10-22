@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Pruthak Utpal Joshi</title>
+	<meta charset="UTF-8">
+	    <link href="https://fonts.googleapis.com/css?family=Gamja+Flower" rel="stylesheet">
+	    <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+	    <link rel="stylesheet" type="text/css" href="webpage.css">
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+
+<body background="C:\Users\lenovo\Desktop\Pruthak\IIT\Website\background_home.jpg">
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  		<div class="container-fluid">
+    		<div class="navbar-header active">
+      			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        			<span class="icon-bar"></span>
+        			<span class="icon-bar"></span>
+        			<span class="icon-bar"></span>                        
+      			</button>
+      			<a class="navbar-brand" href="index.html" style="font-family: 'Pacifico', cursive;">Pruthak Utpal Joshi</a>
+    		</div>
+    		<div class="collapse navbar-collapse" id="myNavbar">
+      			<ul class="nav navbar-nav navbar-right">
+
+        			<li>
+
+          				<a href="about_me.html"><span class="glyphicon glyphicon-user"></span> About Me</a>
+          				
+        			</li>
+
+        			<li>
+          				<a href="projects.html"><span class="glyphicon glyphicon-briefcase"></span> Projects</a>
+          				
+        			</li>
+
+        			<li id="li2"><a href="contact_me.html"><span class="glyphicon glyphicon-envelope"></span> Contact Me</a></li>
+        			<li id="li2"><a href="file:///C:/Users/lenovo/Desktop/Pruthak/IIT/Website/CV.pdf"><span class="glyphicon glyphicon-file"></span> My Resume</a></li>
+      			</ul>
+    		</div>
+  		</div>
+	</nav>
+
+
+<p style="margin-bottom:7%;"></p>
+<h1 style="font-size:300%" align="center"> Pruthak Utpal Joshi</h1>
+<center><font style="font-size:200%">Second year undergraduate pursuing B.Tech in Mechanical Engineering </font>
+<center><font style="font-size:200%">at Indian Institute of Technology Bombay</font>
+
+<div id="slider">
+  <figure>
+  <img src="C:\Users\lenovo\Desktop\Pruthak\33035725_1821877547834332_3629426366471995392_o.jpg" align="center" width="550" height="350" >
+  <img src="C:\Users\lenovo\Desktop\Pruthak\20449096_1539498802738876_636323696895003684_o.jpg" align="center" width="550" height="350">
+  <img src="C:\Users\lenovo\Desktop\Pruthak\IMG_20190415_003806.jpg" align="center" width="550" height="350" >
+  </figure>
+</div>
+
+
+
+<center>
+</body>
+</html>
