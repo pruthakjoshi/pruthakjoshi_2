@@ -1,0 +1,56 @@
+<html>
+<head>
+
+<title>Pruthak Joshi - IIT Bombay</title>
+	<meta charset="UTF-8">
+	    <link href="https://fonts.googleapis.com/css?family=Gamja+Flower" rel="stylesheet">
+	    <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+	    <link rel="stylesheet" type="text/css" href="webpage.css">
+	    
+	<meta name="description" content="Hi! I am Pruthak Joshi and I am pursuing Dual Degree (B.Tech + M.Tech) in Mechanical Engineering. Browse through to know more about me!"  /> 
+
+</head>
+
+<body style="background:url(background_home.jpg);background-repeat:no-repeat;background-size: 100% 100%">
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  		<div class="container-fluid">
+    		<div class="navbar-header active">
+      			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        			<span class="icon-bar"></span>
+        			<span class="icon-bar"></span>
+        			<span class="icon-bar"></span>                        
+      			</button>
+      			<a class="navbar-brand" href="index.html" style="font-family: 'Pacifico', cursive;">Pruthak Joshi</a>
+    		</div>
+    		<div class="collapse navbar-collapse" id="myNavbar">
+      			<ul class="nav navbar-nav navbar-right">
+
+        			<li>
+          				<a href="about_me.html"><span class="glyphicon glyphicon-user"></span> About Me</a>
+          				
+        			</li>
+
+        			<li>
+          				<a href="projects.html"><span class="glyphicon glyphicon-briefcase"></span> Projects</a>
+          				
+        			</li>
+
+        			<li id="li2"><a href="contact_me.html"><span class="glyphicon glyphicon-envelope"></span> Contact Me</a></li>
+        			<li id="li2"><a href="CV.pdf"><span class="glyphicon glyphicon-file"></span>Curriculum Vitae</a></li>
+      			</ul>
+    		</div>
+  		</div>
+	</nav>
+
+
+<p style="margin-bottom:7%;"></p>
+<h1 style="font-size:300%" align="center"> Pruthak Joshi</h1>
+<center><font style="font-size:200%">Fourth year undergraduate pursuing Dual Degree (B.Tech + M.tech) in Mechanical Engineering with specialization in Computer Aided Design and Automation at IIT Bombay </font>
+
+<center><img src="IMG_0089.jpg" align="center" width="30%" height="60%" >
+</body>
+</html>
